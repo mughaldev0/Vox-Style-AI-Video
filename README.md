@@ -7,8 +7,8 @@
 
 **Turn any topic into a 30-second, paper-cutout explainer video using Claude + Gemini Veo 3.**
 
-[![Website](https://img.shields.io/badge/Website-mughar.dev-FFD100?style=for-the-badge&logo=googlechrome&logoColor=black)](https://mughar.dev)
-[![WhatsApp Channel](https://img.shields.io/badge/WhatsApp-Join%20the%20Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/YOUR-CHANNEL-LINK)
+[![Website](https://img.shields.io/badge/Website-mughal.dev-FFD100?style=for-the-badge&logo=googlechrome&logoColor=black)](https://mughal.dev)
+[![WhatsApp Channel](https://img.shields.io/badge/WhatsApp-Join%20the%20Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]([https://whatsapp.com/channel/YOUR-CHANNEL-LINK](https://whatsapp.com/channel/0029VbBUVv35fM5eAnXw3w2D))
 [![Made with Claude](https://img.shields.io/badge/Made%20with-Claude-FF4B3E?style=for-the-badge)](https://claude.ai)
 [![Video by Veo 3](https://img.shields.io/badge/Video-Gemini%20Veo%203-2B8A8A?style=for-the-badge)](https://gemini.google.com)
 
@@ -88,9 +88,9 @@ Want the full step-by-step? Read the [**recipe**](recipe.md).
 
 ### Want more digital stuff, templates and AI tips?
 
-[![Join our WhatsApp Channel](https://img.shields.io/badge/Join%20our%20WhatsApp%20Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/YOUR-CHANNEL-LINK)
+[![Join our WhatsApp Channel](https://img.shields.io/badge/Join%20our%20WhatsApp%20Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]([https://whatsapp.com/channel/YOUR-CHANNEL-LINK](https://whatsapp.com/channel/0029VbBUVv35fM5eAnXw3w2D))
 
-### 🌐 Visit our website: [**mughar.dev**](https://mughar.dev)
+### 🌐 Visit our website: [**mughal.dev**](https://mughal.dev)
 
 </div>
 
@@ -102,6 +102,6 @@ If this kit helped you, give the repo a **star** ⭐ and share it with someone w
 
 <div align="center">
 
-Made with ❤️ by **[mughar.dev](https://mughar.dev)**
+Made with ❤️ by **[mughal.dev](https://mughal.dev)**
 
 </div>
