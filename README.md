@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Put your GIF at assets/demo.gif (or change the path below) -->
-<img src="assets/demo.gif" alt="Vox-style AI video demo" width="720">
+<img src="demo.gif" alt="Vox-style AI video demo" width="720">
 
 # 🎬 Vox-Style AI Video Kit
 
